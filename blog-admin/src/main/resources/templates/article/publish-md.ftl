@@ -5,8 +5,8 @@
 	<link href="https://cdn.bootcss.com/highlight.js/9.12.0/styles/github.min.css" rel="stylesheet">
     <style>
         .CodeMirror, .CodeMirror-scroll {
-            min-height: 130px;
-            max-height: 200px;
+            min-height: 200px;
+            max-height: 100%;
         }
         .CodeMirror .cm-spell-error:not(.cm-url):not(.cm-comment):not(.cm-tag):not(.cm-word) {
             background: none;
